@@ -1,7 +1,5 @@
 // Luis Antonio Viana Franklin
 // Turma 1 - Engenharia de Software
-// Matrícula: 514146
-// Link do video: https://youtu.be/nfdi4N_dUTM
 
 
 
